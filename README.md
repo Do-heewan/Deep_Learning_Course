@@ -1,24 +1,26 @@
-# Deep Learning Study Notes
+# 딥러닝 학습 노트
 
-Welcome to my Deep Learning repository! This repository contains all the study materials, notes, and code I've developed during my Master's program in the field of Deep Learning. My goal is to share this knowledge with others who are also passionate about this exciting area of research.
+한 학기동안 배운 딥러닝 교육 과정 및 코드자료 입니다. 
 
-## Table of Contents
-- [Introduction](#introduction)
-- [Folder Structure](#folder-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Acknowledgements](#acknowledgements)
+## 목차
+- [소개](#소개)
+- [폴더 구조](#폴더-구조)
+- [사전 준비 사항](#사전-준비-사항)
+- [설치 방법](#설치-방법)
+- [사용 방법](#사용-방법)
+- [기여 방법](#기여-방법)
+- [라이선스](#라이선스)
+- [감사 인사](#감사-인사)
 
-## Introduction
-This repository includes a comprehensive collection of resources on various Deep Learning topics, such as neural networks, CNNs, RNNs, and more. These resources are intended to help you understand the foundational concepts and advanced techniques in Deep Learning.
+## 소개
+이 저장소는 신경망, CNN, RNN 등 다양한 딥러닝 주제에 대한 포괄적인 자료를 포함하고 있습니다. 딥러닝의 기초 개념부터 고급 기법까지 이해하는 데 도움이 될 수 있도록 구성되었습니다.
 
-## Folder Structure
+## 폴더 구조
 ```plaintext
-├── data/               # Datasets used in various projects
-├── notebooks/          # Jupyter notebooks with code examples and explanations
-├── scripts/            # Python scripts for different Deep Learning models
-├── models/             # Pre-trained models and model architectures
-└── README.md           # This file
+├── data/               # 다양한 프로젝트에서 사용된 데이터셋
+├── notebooks/          # 코드 예제와 설명이 담긴 Jupyter 노트북
+├── scripts/            # 딥러닝 모델을 위한 Python 스크립트
+├── models/             # 사전 학습된 모델과 모델 아키텍처
+└── README.md           # 본 파일
+
+## 사전 준비 사항
