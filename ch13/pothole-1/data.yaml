@@ -1,0 +1,12 @@
+names:
+- pothole-eZet
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: pothole-doqr3
+  url: https://universe.roboflow.com/doheewan-rrxlw/pothole-doqr3/dataset/1
+  version: 1
+  workspace: doheewan-rrxlw
+test: C:/Users/Noh/Python_Code/Deep/ch13/pothole-1/test/images
+train: C:/Users/Noh/Python_Code/Deep/ch13/pothole-1/train/images
+val: C:/Users/Noh/Python_Code/Deep/ch13/pothole-1/valid/images

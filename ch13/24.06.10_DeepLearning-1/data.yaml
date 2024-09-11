@@ -1,0 +1,6 @@
+names : ['pothole']
+nc: 1
+
+test: C:/Users/Noh/Python_Code/Deep/ch13/24.06.10_DeepLearning-1/test/images
+train: C:/Users/Noh/Python_Code/Deep/ch13/24.06.10_DeepLearning-1/train/images
+val: C:/Users/Noh/Python_Code/Deep/ch13/24.06.10_DeepLearning-1/valid/images
