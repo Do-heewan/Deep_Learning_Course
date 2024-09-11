@@ -18,6 +18,7 @@
 ├── ch012/              # CNN with YOLO
 ├── ch013/              # CNN with roboflow
 ├── ch014/              # RNN 모델 구현
+├── dataset/            # MNIST 데이터 파일
 └── README.md           # 본 파일
 ```
 
